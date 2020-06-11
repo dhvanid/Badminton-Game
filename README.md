@@ -2,11 +2,11 @@
 
 I have created an android mobile interface design for a Badminton Gaming Application using Balsamiq as a wireframing tool and Adobe XD as prototyping tool.
 
-<a href="">Click Here</a> to view the Sketches.
+<a href="/Sketches">Click Here</a> to view the Sketches.
 
-<a href="">Click Here</a> to view the Wireframes.
+<a href="/Wireframes">Click Here</a> to view the Wireframes.
 
-<a href="">Click Here</a> to view the Prototype.
+<a href="/Prototype">Click Here</a> to view the Prototype.
 
 
 I have also attached a presentation of the complete project.
