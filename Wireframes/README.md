@@ -1,3 +1,5 @@
+**Wireframes**
+
 I have created wireframes using Balsamiq Tool. 
 The wireframes are connected to each other and I have added links in the buttons for the connections.
 You can find the link to the working copy of wireframes as follows : <a href="working-mock/Badminton Game.pdf">Badminton Game</a>.
