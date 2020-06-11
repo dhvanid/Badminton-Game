@@ -6,7 +6,7 @@ I have created an android mobile interface design for a Badminton Gaming Applica
 
 <a href="/Wireframes">Click Here</a> to view the Wireframes.
 
-<a href="/Prototype">Click Here</a> to view the Prototype.
+<a href="/High-Fidelity-Prototype">Click Here</a> to view the Prototype.
 
 <a href="/Presentation">Click Here</a> to view the working presentation of complete application.
 
