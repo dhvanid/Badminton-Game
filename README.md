@@ -8,30 +8,27 @@ I have created an android mobile interface design for a Badminton Gaming Applica
 
 <a href="/Prototype">Click Here</a> to view the Prototype.
 
-
-I have also attached a presentation of the complete project.
-
-<a href="">Click Here</a> to view the presentation of complete application.
+<a href="/Presentation">Click Here</a> to view the working presentation of complete application.
 
 **Overview**
 
 **Home Screen**
 
-<img src="/mock-images/Home.PNG">
+<img src="/High-Fidelity-Prototype/mock-images/Home.PNG">
 
 
 **Rules Screen**
 
-<img src="/mock-images/Rules.PNG">
+<img src="/High-Fidelity-Prototype/mock-images/Rules.PNG">
 
 **Tips Screen**
 
-<img src="/mock-images/Tips.PNG">
+<img src="/High-Fidelity-Prototype/mock-images/Tips.PNG">
 
 **Customize Screen**
 
-<img src="/mock-images/Customize.PNG">
+<img src="/High-Fidelity-Prototype/mock-images/Customize.PNG">
 
 **Play Screen**
 
-<img src="/mock-images/Play.PNG">
+<img src="/High-Fidelity-Prototype/mock-images/Play.PNG">
